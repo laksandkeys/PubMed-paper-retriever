@@ -23,4 +23,6 @@ FILES INCLUDED:
 
 -final presentation/report
 
--final code files
+-individual code files
+
+-final dashboard product
